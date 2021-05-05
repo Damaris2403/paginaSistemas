@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>Informática</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <style type="text/css"> BODY{ font-family:Montserrat; } </style>
+    </head>
+    <body>
+    
+
+        <div class="row">
+            <div class="col-sm-4"> <img src ="http://www.sep.gob.mx/work/models/sep1/Resource/16047/1/images/firma.png" width="200"></div>
+            <div class="col-sm-4"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Tecnologico_Nacional_de_Mexico.svg" width="150"></div>
+            <div class="col-sm-4" ><img src="https://www.tijuana.tecnm.mx/wp-content/uploads/2018/09/logo-ITT-2018.jpg" width="90"></div>
+        </div>
+
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+              <div class="navbar-header">
+              </div>
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="#">INICIO</a></li>
+                <li><a href="#">NOTICIAS</a></li>
+                <li><a href="#">ESTUDIANTES</a></li>
+                <li><a href="#">DOCENTES</a></li>
+                <li><a href="#">VINCULACIÓN</a></li>
+                <li><a href="#">LAVORATORIOS</a></li>
+                <li><a href="#">INVESTIGACIÓN</a></li>
+              </ul>
+            </div>
+          </nav>
+            
+        <br>
+
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+            </ol>
+        
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner">
+                <div class="item active">
+                    <center><img src="https://www.galdon.com/wp-content/uploads/2013/05/profesion-informatica-galdon-software-1024x576.jpg" width="800px"></center>
+                </div>
+                <div class="item">
+                    <img src="https://tijuana.tecnm.mx/wp-content/uploads/2014/11/INFORMATICA_HEADING-2048x672.png" width="4000px">
+                </div>
+            </div>
+        </div>
+         
+
+            <div class="container"><h1></h1></div>
+              <div id="exTab1" class="container">	
+                  <ul  class="nav nav-pills">
+                    <li class="active">
+                    <a  href="#0a" data-toggle="tab">Reticula</a>
+                   </li>
+            <li>
+                <a  href="#1a" data-toggle="tab">Contactanos</a>
+			</li>
+			<li><a href="#2a" data-toggle="tab">Perfil de Egreso</a>
+			</li>
+			<li><a href="#3a" data-toggle="tab">Objetivo General</a>
+			</li>
+  		<li><a href="#4a" data-toggle="tab">Ubicación</a>
+			</li>
+		</ul>
+
+			<div class="tab-content clearfix">
+                <div class="tab-pane active" id="0a">
+                    <div class="m-imagemap">
+                        <img class="imagemap_img" src="https://s2.studylib.es/store/data/001971691_1-a6ee0ba61b0f74aae3c40d410b2b09d5.png">
+                    </div>
+                </div>
+			  <div class="tab-pane" id="1a">
+          <h5>
+            DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN<br>
+            M.E. ARNULFO CASTRO TRASVIÑA<br>
+            Coordinador de Ingeniería Informática<br>
+            Teléfono.(664)  607 84 48 ext. 146 <br>
+            Correo oficial: ing.informatica@tectijuana.edu.mx</h5>
+				</div>
+				<div class="tab-pane" id="2a">
+          <h5>Aplicar conocimientos científicos y tecnológicos en la solución de problemas en el área informática con un enfoque interdisciplinario.<br>
+            Administrar las tecnologías de la información, para estructurar proyectos estratégicos.<br>
+            Formular, gestionar y evaluar el desarrollo de proyectos informáticos en las organizaciones.<br>
+            Analizar, modelar, desarrollar, implementar y administrar sistemas de información para aumentar la productividad y competitividad de las organizaciones.<br>
+            Aplicar normas, marcos de referencia, estándares de calidad y seguridad vigentes en el ámbito del desarrollo y gestión de tecnologías y sistemas de información.<br>
+            Integrar las soluciones de tecnologías de información a los procesos organizacionales para fortalecer objetivos estratégicos.<br>
+            Seleccionar y utilizar de manera óptima técnicas y herramientas computacionales actuales y emergentes.<br>
+            Realizar actividades de auditoria y consultoría relacionadas con la función informática.<br>
+            Identificar, diseñar, desarrollar los mecanismos de almacenamiento, distribución, visualización y manipulación de la información.<br>
+            Identificar y aplicar modelos pertinentes en el diseño e implementación de base de datos para la gestión de la información en las organizaciones.<br>
+            Comunicarse de manera efectiva, en su propio idioma y al menos en un idioma extranjero, para integrarse a un contexto globalizado, en su desarrollo personal y profesional.<br>
+            Crear y administrar redes de comunicación, que contemplen el diseño, selección, instalación y mantenimiento para la operación de equipos de cómputo, aprovechando los avances tecnológicos a su alcance.<br>
+            Desempeñarse profesionalmente con ética en un contexto multicultural, comprometidos con la sociedad y conservación del medio ambiente.<br>
+            Observar y fomentar el cumplimiento de las disposiciones de carácter legal, relacionadas con la función informática.<br>
+            Analizar, desarrollar y programar modelos matemáticos, estadísticos y de simulación.<br>
+            Liderar y participar en grupos de trabajo profesional multi e interdisciplinario, para el desarrollo de proyectos que requieran soluciones basadas en tecnologías y sistemas de información.<br>
+            Lograr un nivel de competencia internacional, con espíritu innovador, creativo y emprendedor, para generar nuevas oportunidades y desarrollar proyectos aplicando las tecnologías de información</h5>
+				</div>
+        <div class="tab-pane" id="3a">
+          <h5>Formar profesionales competentes en el diseño, desarrollo, implementación y administración de servicios informáticos y gestión de proyectos con una visión sistémica, tecnológica y estratégica, ofreciendo soluciones innovadoras e integrales a las organizaciones, de acuerdo con las necesidades globales, actuales y emergentes, comprometidos con su entorno, desempeñándose con actitud ética, emprendedora y de liderazgo.</h5>
+				</div>
+          <div class="tab-pane" id="4a">
+          <h5><a href="https://www.google.com/maps/place/Instituto+Tecnol%C3%B3gico+de+Tijuana/@32.5290054,-116.9878909,18z/data=!4m5!3m4!1s0x80d94875c00b2a3d:0x281526cf22a3e2cc!8m2!3d32.5288991!4d-116.9868046?shorturl=1">Unidad Tomás Aquino, Calzada Tecnológico S/N Esq. Av. Castillo de Chapultepec y calle Cuauhtemotzin, Fracc. Tomás Aquino C.P. 22414</a></h5>
+				</div>
+			</div>
+  </div>
+ </body>
+</html>
